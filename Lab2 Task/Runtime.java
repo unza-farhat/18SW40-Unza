@@ -2,10 +2,10 @@ class Runtime
 {
 public static void main (String [] args)
  {
-   String x,y;
-   x=args[0];
-   y=args[1];
-   System.out.println("Name:" +x);
-   System.out.println("Rollno:" +y);
+   String a,b;
+   a=args[0];
+   b=args[1];
+   System.out.println("Name:" +a);
+   System.out.println("Rollno:" +b);
  }
 }
